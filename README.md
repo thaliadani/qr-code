@@ -22,6 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -49,6 +50,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+
+### Useful resources
+
+- [Box shadow](https://cssgenerator.org/box-shadow-css-generator.html) - this helped me make a shadow on the container.
 
 ## Author
 
