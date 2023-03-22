@@ -32,6 +32,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   
 ![](https://user-images.githubusercontent.com/31187727/227015542-b3eed16d-4dd8-4229-b918-752b6ef89533.png)
   
+![image](https://user-images.githubusercontent.com/31187727/227020532-78b81b19-9746-4a06-a483-dfe90e27e7b5.png)
+  
 </div>
 
 ### Links
