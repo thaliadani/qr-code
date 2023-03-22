@@ -94,7 +94,6 @@ body {
 
 @media screen and (min-width: 1024px) {
     .container {
-        width: 30vw;
         margin-top: 3em;
     }
 
