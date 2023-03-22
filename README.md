@@ -31,9 +31,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   
 ### Screenshot
   
-![image](https://user-images.githubusercontent.com/31187727/227028986-aaef0cae-c018-4b1a-b8e0-e1a1641b67b3.png)
+![image](https://user-images.githubusercontent.com/31187727/227036242-3355729b-402b-4f3f-850f-5f5ed2dea0c5.png)
   
-![image](https://user-images.githubusercontent.com/31187727/227028918-d45489bc-159e-4291-9536-a52095cec1f6.png)
+![image](https://user-images.githubusercontent.com/31187727/227036892-59f43906-0eb9-4e2e-97b2-8d2b0663e3e6.png)
 
 </div>
 
