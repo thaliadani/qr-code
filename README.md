@@ -1,8 +1,4 @@
-<div align="center">
-
-<h1>QR Code</h1>
-
-</div>
+# Frontend Mentor - QR code component solution
 
 <div>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -10,8 +6,7 @@
 <br>
 <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
 </div>
-
-# Frontend Mentor - QR code component solution
+<br>
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
